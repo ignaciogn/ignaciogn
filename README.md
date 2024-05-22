@@ -70,24 +70,29 @@
 
 ###
 
-<h3 align="center">🌐 Socials:</h3>
+<h3 align="left">🌐 Socials:</h3>
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/ignacio-guerrero-noguera-5258b5309"><img src="https://img.shields.io/badge/-Ignacio%20Guerrero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ignaciogn2002@gmail.com"><img src="https://img.shields.io/badge/-Ignacio Guerrero-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ignacioo_gn/"><img src="https://img.shields.io/badge/-Ignacio%20Guerrero-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<div align="left">
+  <a href="www.linkedin.com/in/ignacio-guerrero-noguera-5258b5309"><img src="https://img.shields.io/badge/-Ignacio%20Guerrero-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30"/></a>
+  <img width="12" />
+  <a href="mailto:ignaciogn2002@gmail.com"><img src="https://img.shields.io/badge/-Ignacio Guerrero-D14836?style=flat&logo=Gmail&logoColor=white" height="30"/></a>
+  <img width="12" />
+  <a href="https://www.instagram.com/ignacioo_gn/"><img src="https://img.shields.io/badge/-Ignacio%20Guerrero-E4405F?style=flat&logo=Instagram&logoColor=white" height="30"/></a>
 </div>
 
 ###
 
-
-###
-
 ---
+###
 
-[![](https://visitcount.itsvg.in/api?id=ignaciogn&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<h3 align="center">👀 Profile Views</h3>
 
 ###
+  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ignaciogn/count.svg?"  />
+</div>
+
+
