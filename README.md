@@ -75,7 +75,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ignacio-guerrero-noguera-5258b5309"><img src="https://img.shields.io/badge/-Ignacio%20Guerrero-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30"/></a>
+<a href="https://www.linkedin.com/in/ignacio-guerrero-noguera-5258b5309/"><img src="https://img.shields.io/badge/Ignacio%20Guerrero-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <img width="12" />
   <a href="mailto:ignaciogn2002@gmail.com"><img src="https://img.shields.io/badge/-Ignacio Guerrero-D14836?style=flat&logo=Gmail&logoColor=white" height="30"/></a>
   <img width="12" />
