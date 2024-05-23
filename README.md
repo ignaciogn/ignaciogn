@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓  I am currently working on my final year project in Computer Engineering at the University of Extremadura (Mérida).<br>🌱 I am learning Flutter, React, and improving my skills in Spring Boot and Java.<br>🌟 I enjoy learning about the latest technologies and am always eager to learn more and improve.<br> ✉️  You can shoot me an email at ignaciogn2002@gmail.com! I'll try to respond as soon as I can.</p>
+<p align="left">🎓  I am currently working on my final year project in Computer Engineering at the University of Extremadura (Mérida).<br>🌱 I am learning Flutter, React, and improving my skills in Spring Boot and Java.<br>🌟 I enjoy learning about the latest technologies and am always eager to learn more and improve.<br> 
 
 ###
 
